@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parmarbhanu
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently pursuing my bachelor of technology from medi caps university Indore
 - 💞️ I’m looking to collaborate on ...
 - 📫 my contact 9174912843
 
