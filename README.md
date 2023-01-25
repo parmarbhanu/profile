@@ -4,7 +4,7 @@
 current cgpa is 9.02
 2* at codechef
 - 📫 my contact 9174912843  ,Gmail-parmarbhanu@gmail.com
-
+- solved nearly 100+ problem on leetcode 
 <!---
 parmarbhanu/parmarbhanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
